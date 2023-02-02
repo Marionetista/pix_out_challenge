@@ -47,9 +47,3 @@ Open the "inde.html" in your browser to check the app coverage.
     - Dart Package: <https://pub.dev/packages/mockito>
     - GitHub: <https://github.com/dart-lang/mockito>
     - License: [MIT](https://pub.dev/packages/mockito/license)
-
-  # flutter_launcher_icons: ^0.9.0
-    -Used to apply the app launch icon.
-    - Dart Package: <https://pub.dev/packages/flutter_launcher_icons>
-    - GitHub: <https://github.com/fluttercommunity/flutter_launcher_icons>
-    - License: [Apache-2.0](https://pub.dev/packages/flutter_launcher_icons/license)
